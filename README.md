@@ -1,4 +1,4 @@
-# Pet Wellbeing — zero-cost MVP prototype
+# Pet Wellbeing World — zero-cost MVP prototype
 
 ## What is included
 - Responsive, mobile-first public website

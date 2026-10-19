@@ -1,4 +1,4 @@
-# Pet Wellbeing & Veterinary Network — Product Roadmap
+# Pet Wellbeing World & Veterinary Network — Product Roadmap
 
 ## Product promise
 Help pet owners understand and improve everyday animal wellbeing and find appropriately qualified veterinary professionals, without replacing veterinary care.
@@ -11,7 +11,7 @@ Zero upfront investment. Start with static hosting and public educational conten
 2. Dog Care — nutrition, healthy weight, behaviour, exercise/enrichment, dental care, life stages, preventive care.
 3. Cat Care — environment, litter habits, enrichment, nutrition, dental care, life stages, preventive care.
 4. Pet Tools — carefully validated educational tools; no drug dose calculators or AI symptom diagnosis.
-5. Pet Wellbeing Journal — article categories, author/reviewer information, update dates and sources.
+5. Pet Wellbeing World Journal — article categories, author/reviewer information, update dates and sources.
 6. Find a Veterinarian — search by country/jurisdiction, location, species, specialty, language and service eligibility.
 7. Join as a Veterinarian — self-service application, identity/credential review, profile management.
 8. About & Standards — welfare-first promise, verification policy, privacy, clinical boundaries, corrections/complaints.
@@ -68,7 +68,7 @@ Zero upfront investment. Start with static hosting and public educational conten
 
 ## First execution checklist
 1. Inspect and test this prototype locally on desktop and mobile.
-2. Select the final brand name (temporary name is Pet Wellbeing).
+2. Select the final brand name (temporary name is Pet Wellbeing World).
 3. Create a GitHub repository and publish free static MVP.
 4. Replace placeholder URLs and set up Search Console.
 5. Vet-review the first articles and tool formula before promoting them as guidance.
