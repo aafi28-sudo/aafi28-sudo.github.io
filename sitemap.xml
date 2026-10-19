@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/index.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/directory.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/register-vet.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/index.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/dog-care.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/cat-care.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/healthy-weight.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/pet-safety.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/articles/vet-visit.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/tools/calorie-guide.html</loc></url>
+</urlset>
